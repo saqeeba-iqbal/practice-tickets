@@ -1,2 +1,3 @@
 Ticket 1: Login not working - New
 Ticket 2: Order is late - Open
+Ticket 3: Payment failed - New
